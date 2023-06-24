@@ -4,11 +4,11 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "欢迎使用ChatGPT个人专属AI助理，看起来您还没有填写访问密码，或是填写了过期的访问密码，您可添加 bizwechat4anson 微信获取最新的访问密码。如果您已经获得最新密码或新的API KEY，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。祝您使用愉快。",
   },
   Auth: {
-    Title: "需要密码",
-    Tips: "管理员开启了密码验证，请在下方填入访问码",
+    Title: "填写访问密码",
+    Tips: "欢迎使用ChatGPT个人专属AI助理，管理员开启了密码验证，请在下方填入访问码，如无访问码，请添加 bizwechat4anson 微信获取最新的访问密码",
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
